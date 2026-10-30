@@ -18,6 +18,10 @@
 | 2a. | User Flow Diagram Design | [Link to Flow Chart](https://www.figma.com/file/aFn15lyvti5hqLJBNUDZlU/Lastic-Flow-Chart-%231?type=whiteboard&node-id=0%3A1&t=ZiWNv9gRsH68D5Km-1) | Extended version of Figma available in lasticUI/README.md | Failed - needs login.
 | 2b. | UI Figma Design | [Link to Figma UI](https://www.figma.com/proto/druTS8m2bCDNgovAjb0sbH/Lastic-milestone?page-id=0%3A1&type=design&node-id=203-897&viewport=191%2C-177%2C0.06&t=OHMXONHfLogXX1M4-1&scaling=min-zoom&starting-point-node-id=203%3A897&mode=design) | Link also available in lasticUI/README.md | Complete
 | 3a. | Frontend Development - Broker Pallet Integration | [Substrate Interact Github Link](https://github.com/LasticXYZ/LasticUI/tree/main/substrate-interact) | Links for detailed instructions on [how to get started with the substrate interact](https://docs.lastic.xyz/substrate-interact/) and [interaction instructions](https://docs.lastic.xyz/substrate-interact/interact.html) | Failed
-| 3b. | Mockup-based Frontend Development | [deployment - test.lastic.xyz](https://test.lastic.xyz/) [Link to Frontend](https://github.com/LasticXYZ/LasticUI/tree/main/substrate_interact) | The deployed version of the `main` branch can be accessed on [test.lastic.xyz](https://test.lastic.xyz/). However you can also check out the `stable` branch that is the official Lastic website at [lastc.xyz](https://lastic.xyz/) |
+| 3b. | Mockup-based Frontend Development | [deployment - test.lastic.xyz](https://test.lastic.xyz/) [Link to Frontend](https://github.com/LasticXYZ/LasticUI/tree/main/substrate_interact) | The deployed version of the `main` branch can be accessed on [test.lastic.xyz](https://test.lastic.xyz/). However you can also check out the `stable` branch that is the official Lastic website at [lastc.xyz](https://lastic.xyz/) | Failed with one error
 
 ## General Notes
+
+The website worked well but had some errors. Please check along with your blog website as it appears to be down.
+
+<img width="930" height="455" alt="Screenshot 2026-10-30 at 1 15 18 AM" src="https://github.com/user-attachments/assets/3a087c97-1ca2-414e-9f07-0b5d9b644d60" />
