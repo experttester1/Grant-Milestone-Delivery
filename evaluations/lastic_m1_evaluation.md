@@ -5,7 +5,7 @@
 
 | Number | Deliverable | Link | Notes | Accepted |
 | ----- | ----------- | ------ | ------- | ------- |
-| **0a.** | License | [LICENSE](https://github.com/LasticXYZ/LasticUI/blob/main/LICENSE) | Licensed under GPLv3 | 
+| **0a.** | License | [LICENSE](https://github.com/LasticXYZ/LasticUI/blob/main/LICENSE) | Licensed under GPLv3 | Complete
 | **0b.** | Documentation | [README.md](https://github.com/LasticXYZ/LasticUI/blob/main/README.md) and [docs](https://docs-lastic.vercel.app/) | All documentation is in the READMEs of the coresponding folders. |
 | **0c.** | Testing and Testing Guide | [lastic.xyz](https://www.lastic.xyz/) | See section [Testing guide]() |
 | **0d.** | Error logging | [Lastic UI/issues](https://github.com/LasticXYZ/LasticUI/issues) | All possible errors will be exposed as issues and fixed over time. |
